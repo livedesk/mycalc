@@ -1,8 +1,5 @@
-package main
+package mycalc
 
-func main() {
-
-}
 func Calculate(num1 int, num2 int) int {
 	return num1 + num2*1
 }
